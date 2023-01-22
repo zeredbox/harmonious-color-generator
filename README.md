@@ -17,9 +17,11 @@ The hsb-harmonic-color allows you to :
 
 ## Sources and further reading
 Original script from : [Simon Tiger  on p5js.org](https://editor.p5js.org/simontiger/sketches/MVVT1T01n)
-See alsow :
-["WK9 HSB Random Analogous Hues Palette" by enickles  on p5js.org](https://editor.p5js.org/enickles/sketches/8Bpc7iBmY)
+
+See alsow : ["WK9 HSB Random Analogous Hues Palette" by enickles  on p5js.org](https://editor.p5js.org/enickles/sketches/8Bpc7iBmY)
+
 and
+
 ["HSB color mode - random" by sjnha on p5js.org](https://editor.p5js.org/sjnha/sketches/r1GsiEBSW)
 
 Further reading: [Color schemes on "Programmingdesignsystems.com"](https://programmingdesignsystems.com/color/color-schemes/index.html#color-schemes-dV9Rf6L)
