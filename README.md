@@ -16,3 +16,5 @@ The hsb-harmonic-color allows you to :
 
 ![hsb harmonic color](/hsb-harmonic.png)
 
+### License
+[The Unlicense](https://unlicense.org)
