@@ -1,4 +1,4 @@
-# hsb-harmonic-color - Generator of harmonic palette
+# Generator of harmonic palette - hsb-harmonic-color
 
 Project written for with P5.js library.
 **[See the project live on p5js.org](https://editor.p5js.org/zeredbox/full/0QXdu8-SU)**.
