@@ -16,13 +16,13 @@ The hsb-harmonic-color allows you to :
 ![hsb harmonic color](/hsb-harmonic.png)
 
 ## Sources and further reading
-Original script from : [Simon Tiger  on p5js.org](https://editor.p5js.org/simontiger/sketches/MVVT1T01n)
+Original script from : [Simon Tiger](https://editor.p5js.org/simontiger/sketches/MVVT1T01n) on p5js.org
 
-See alsow : ["WK9 HSB Random Analogous Hues Palette" by enickles  on p5js.org](https://editor.p5js.org/enickles/sketches/8Bpc7iBmY)
+See alsow : ["WK9 HSB Random Analogous Hues Palette"](https://editor.p5js.org/enickles/sketches/8Bpc7iBmY) by enickles on p5js.org
 
 and
 
-["HSB color mode - random" by sjnha on p5js.org](https://editor.p5js.org/sjnha/sketches/r1GsiEBSW)
+["HSB color mode - random"](https://editor.p5js.org/sjnha/sketches/r1GsiEBSW) by sjnha on p5js.org
 
 Further reading: [Color schemes on "Programmingdesignsystems.com"](https://programmingdesignsystems.com/color/color-schemes/index.html#color-schemes-dV9Rf6L)
 
