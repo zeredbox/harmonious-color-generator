@@ -2,6 +2,6 @@
 
 test readme
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
+![This is an image](../hsb-rgb.png)
+https://github.com/zeredbox/hsb-harmonic-color/blob/main/hsb-rgb.png
 
