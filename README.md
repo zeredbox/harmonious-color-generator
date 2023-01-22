@@ -27,7 +27,7 @@ and
 Further reading: [Color schemes on "Programmingdesignsystems.com"](https://programmingdesignsystems.com/color/color-schemes/index.html#color-schemes-dV9Rf6L)
 
 ## Write me or comment
-If these lines of code are useful to you or if you want to leave me a comment (always appreciated): [Write an email](https://linktr.ee/zeredbox)
+If these lines of code are useful to you or if you want to leave me a comment (always appreciated): [contact me on Linktree](https://linktr.ee/zeredbox)
 
 ## License
 This is free software released into the public domain.
