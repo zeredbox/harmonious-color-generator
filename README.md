@@ -2,7 +2,6 @@
 
 Project written for with P5.js library.
 **[See the project live on p5js.org](https://editor.p5js.org/zeredbox/full/0QXdu8-SU)**.
-Original script from [Simon Tiger](https://editor.p5js.org/simontiger/sketches/MVVT1T01n).
 
 ## Generate harmonious color palette
 When you choose colours in a completely random way, the result is not always harmonious. The HSB color model (for Hue, Saturation, Brightness) rather than RGB allows, from one colour, to easily find colours that go well together.
@@ -15,6 +14,15 @@ The hsb-harmonic-color allows you to :
 **palette.js** file contains all the elements to be integrated into another project. Examples of calls to palette.js are shown in **sketch.js**.
 
 ![hsb harmonic color](/hsb-harmonic.png)
+
+## Sources and further reading
+Original script from : [Simon Tiger  on p5js.org](https://editor.p5js.org/simontiger/sketches/MVVT1T01n)
+See alsow :
+["WK9 HSB Random Analogous Hues Palette" by enickles  on p5js.org](https://editor.p5js.org/enickles/sketches/8Bpc7iBmY)
+and
+["HSB color mode - random" by sjnha on p5js.org](https://editor.p5js.org/sjnha/sketches/r1GsiEBSW)
+
+Further reading: [Color schemes on "Programmingdesignsystems.com"](https://programmingdesignsystems.com/color/color-schemes/index.html#color-schemes-dV9Rf6L)
 
 ### License
 This is free and unencumbered software released into the public domain.
