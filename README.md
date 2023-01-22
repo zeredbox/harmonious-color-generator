@@ -1,7 +1,7 @@
 # hsb-harmonic-color
 
 > Project made with P5.js (javascript library).
-> [See the project live on p5js.org](https://editor.p5js.org/zeredbox/full/0QXdu8-SU){:target="_blank" }
+> [See the project live on p5js.org](https://editor.p5js.org/zeredbox/full/0QXdu8-SU){:target="_blank"  rel="noopener"}
 > Original script from [Simon Tiger](https://editor.p5js.org/simontiger/sketches/MVVT1T01n){:target="_blank" }
 
 When you choose colours in a completely random way, the result is not always harmonious. The HSB mode rather than RGB for the choice of colours allows, from one colour, to easily find colours that go well together.
